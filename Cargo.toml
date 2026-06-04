@@ -1,0 +1,9 @@
+[package]
+name = "ternary-noise"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Study the effect of noise on ternary agent systems — how much noise can they tolerate before conservation laws break?"
+repository = "https://github.com/SuperInstance/ternary-noise"
+
+[dev-dependencies]
